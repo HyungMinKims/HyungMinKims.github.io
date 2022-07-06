@@ -300,7 +300,7 @@ sort_by: number
 This layout displays all posts grouped by a specific category. It accommodates the same front matter as `layout: archive` with the addition of the following:
 
 ```yaml
-taxonomy: # category name
+taxonomy: # categoryies name
 entries_layout: # list (default), grid
 ```
 
@@ -308,7 +308,7 @@ To create a page showing all posts assigned to the category `foo` you'd create `
 
 ```yaml
 title: Foo
-layout: category
+layout: categoryies
 permalink: /categories/foo/
 taxonomy: foo
 ```

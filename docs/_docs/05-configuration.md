@@ -448,7 +448,7 @@ comments:
   provider: "giscus"
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
+    category_name        : # Full text name of the categoryies
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
@@ -1152,7 +1152,7 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: category
+      type: categoryies
     values:
       comments: false
 ```

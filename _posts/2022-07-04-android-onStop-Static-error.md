@@ -9,6 +9,9 @@ toc: true
 toc_sticky: true
 toc_label: "깃 허브 계정 꾸미기"
 last_modified_at: 2022-07-05T17:37:43-05:00
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 앱을 켜놓은 상태에서 다음 날 앱을 다시 실행하면 static 변수에 담긴 값들이 보존이 안되고 
 사라진 오류를 한번 씩 본 적이 있을 겁니다. 오늘 이야기 해보고 싶은 내용은 **왜 보존이 안되고 해결방법이 무엇이 있는지** 

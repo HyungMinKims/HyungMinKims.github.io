@@ -2,10 +2,9 @@
 main:
   - title: "Category"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+
 #  - title: "Sitemap"
 #    url: /sitemap/
 #  - title: "Quick-Start Guide"

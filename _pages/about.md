@@ -4,6 +4,9 @@ title: "About"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
+author_profile: true
+sidebar:
+ nav: "docs"
 ---
 ![image](/assets/images/profile_photo.jpg){: .align-center}
 ## 학력사항 

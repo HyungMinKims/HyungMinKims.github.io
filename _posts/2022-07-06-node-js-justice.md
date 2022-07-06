@@ -1,12 +1,15 @@
 ---
 title: "Node.js에 대해 알아보자 part.1"
 categories:
-- Node.js
+- nodejs
 tag:
-- Node.js
+- nodejs
 toc: true 
 toc_sticky: true
 toc_label: "node.js 알아보자 part.1"
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 ## Node.js 정의

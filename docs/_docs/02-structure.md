@@ -29,10 +29,10 @@ minimal-mistakes
 |  ├── toc                     # table of contents helper
 |  └── ...
 ├── _layouts
-|  ├── archive-taxonomy.html   # tag/category archive for Jekyll Archives plugin
+|  ├── archive-taxonomy.html   # tag/categoryies archive for Jekyll Archives plugin
 |  ├── archive.html            # archive base
-|  ├── categories.html         # archive listing posts grouped by category
-|  ├── category.html           # archive listing posts grouped by specific category
+|  ├── categories.html         # archive listing posts grouped by categoryies
+|  ├── categoryies.html           # archive listing posts grouped by specific categoryies
 |  ├── collection.html         # archive listing documents in a specific collection
 |  ├── compress.html           # compresses HTML in pure Liquid
 |  ├── default.html            # base for all other layouts

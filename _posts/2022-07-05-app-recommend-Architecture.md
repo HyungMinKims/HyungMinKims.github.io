@@ -7,6 +7,9 @@ tag:
 toc: true
 toc_sticky: true
 toc_label: "앱 아키텍처"
+author_profile: true
+sidebar:
+  nav: "docs"
 ---
 현재 안드로이드에서 권장하는 앱 아키텍처를 알아보도록 하겠습니다. 
 > 참고: [https://developer.android.com/jetpack/guide?hl=ko](https://developer.android.com/jetpack/guide?hl=ko)

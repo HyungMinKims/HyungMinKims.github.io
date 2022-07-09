@@ -15,14 +15,14 @@ sidebar:
 ![images](/assets/post/2022-07-09-application-basic/navtiveApp.jpg)
 <br>
 <br>
-앱 개발자들은 한번 씩 들어 본 말이 있을 겁니다. 네이티브 앱 (nativa app), 모바일 웹 앱 (mobile app),
+앱 개발자들은 한번 씩 들어 본 말이 있을 겁니다. 네이티브 앱 (native app), 모바일 웹 앱 (mobile app),
 <br>
 하이브리드 앱 이렇게 크게 3가지 말을 많이 들어봤을 겁니다. 그럼 왜 이렇게 3개로 나누어 이야기를 많이 할까요?
  그건 바로 3가지 방식 각자 다르면서 장단점을 갖추고 있기 떄문입니다. 그래서 오늘 앱 개발자는
 알아두면 좋은 3가지 방식을 설명드리겠습니다. 
 
 ### 네이티브 앱
-<p style="color: #a8ff60"> Navtive APP </p>
+<p style="color: #a8ff60"> Native APP </p>
 
 네이티브 앱은 우리가 흔히 말하는 **어플케이션**을 의미 합니다. 모바일 기기에 최적화 된 언어로 개발 된
 앱으로 안드로이드 SDK를 이용해 JAVA(자바), Kotlin(코틀린) 만드는 앱과 IOS기반 SDK를 이용해 Swift(스위프트)

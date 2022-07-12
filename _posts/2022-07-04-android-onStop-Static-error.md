@@ -12,6 +12,11 @@ last_modified_at: 2022-07-05T17:37:43-05:00
 author_profile: true
 sidebar:
   nav: "docs"
+date:   2016-03-14 12:00:00
+lastmod : 2016-03-15 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 앱을 켜놓은 상태에서 다음 날 앱을 다시 실행하면 static 변수에 담긴 값들이 보존이 안되고 
 사라진 오류를 한번 씩 본 적이 있을 겁니다. 오늘 이야기 해보고 싶은 내용은 **왜 보존이 안되고 해결방법이 무엇이 있는지** 

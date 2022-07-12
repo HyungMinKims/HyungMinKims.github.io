@@ -10,6 +10,11 @@ toc_label: "깃 허브 계정 꾸미기"
 author_profile: true
 sidebar:
   nav: "docs"
+date:   2016-03-14 12:00:00
+lastmod : 2016-03-15 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 개발자 혹은 개발자를 꿈꾸는 사람이면 git, github는 어디서 한번 쯤은 들어봤을 겁니다. <br>
 그 중 github은 분산 버전 관리 툴인 git를 사용하는 프로젝트를 지원하는 웹 호스팅 서비스 <br>

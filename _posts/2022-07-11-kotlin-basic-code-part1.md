@@ -56,4 +56,39 @@ fun max(a: Int, b: Int) = if (a > b) a else b
 
 <br>
 # 코틀린 기본 문법 - null
-코틀린의 기본 변수는 null을 가질 수 없습니다. 하
+코틀린의 기본 변수는 null을 가질 수 없습니다. 하지만 물음표를 추가 해주었을 때 null을 명시 할 수 있습니다.
+!!는 nullable이면 오류가 발생합니다.
+
+`Kotlin Code`
+<script src="https://gist.github.com/HyungMinKims/6798e4846071ec28e3a9171e464d0a7e.js"></script>
+
+<br>
+# 코클린 기본 문법 - any
+any는 Java의 Object에 해당 대며 is는 instanceof와 같은 행동을 합니다.
+
+`JAVA Code`
+<script src="https://gist.github.com/HyungMinKims/cbee312422b97d3c8438125f3956b59a.js"></script>
+
+`Kotlin Code`
+<script src="https://gist.github.com/HyungMinKims/217a8ad143cf3903c3f52c96366fc112.js"></script>
+
+<br>
+# 코틀린 기본 문법 - loop
+코틀린의 loop는 Java와 비슷합니다.
+
+`JAVA Code`
+<script src="https://gist.github.com/HyungMinKims/062d54eb7ea4ce97817ed153286e13b1.js"></script>
+
+`Kotlin Code`
+<script src="https://gist.github.com/HyungMinKims/1b8d4242115684154cda67017275ffcf.js"></script>
+
+<br>
+# 코틀린 기본 문법 - when
+when은 Java의 switch 문이라고 생각하시면 됩니다. 차이점은 switch문은 break를 걸어줘야 하지만 when은 자동으로 조건문이 완료가
+되어지면 break문을 자동으로 실행 합니다.
+
+`JAVA Code`
+<script src="https://gist.github.com/HyungMinKims/93996cdf834517c70793110e79c28088.js"></script>
+
+`Kotlin Code`
+<script src="https://gist.github.com/HyungMinKims/899548db5f522c894c1bdecfdbf77fc3.js"></script>

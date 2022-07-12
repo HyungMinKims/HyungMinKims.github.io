@@ -1,5 +1,5 @@
 ---
-title: kotlin 기본 문법 (1)
+title: "[android] kotlin 기본 문법 (1)"
 categories:
 - android
 tag:

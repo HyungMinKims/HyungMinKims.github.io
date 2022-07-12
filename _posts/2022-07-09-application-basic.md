@@ -1,5 +1,5 @@
 ---
-title: "[안드로이드] 네이티브 앱, 모바일웹앱, 하이브리드앱"
+title: "[android] 네이티브 앱, 모바일웹앱, 하이브리드앱"
 categories:
 - android
 tag:

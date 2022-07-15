@@ -10,8 +10,7 @@ toc_label: "원시타입과 참조타입"
 author_profile: true
 sidebar:
   nav: "docs"
-date: 2022-07-14 12:00:00
-lastmod : 2022-07-14 12:01:00
+last_modified_at: 2022-07-15T13:37:43-05:00
 sitemap :
   changefreq : daily
   priority : 1.0

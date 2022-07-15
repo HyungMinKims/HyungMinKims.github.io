@@ -18,6 +18,9 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+            <br>
+
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "swift" %}
@@ -25,7 +28,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-        <span class="nav__sub-title">Server</span>
+        <span class="nav__sub-title">WEB</span>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "nodejs" %}
@@ -33,6 +36,18 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+            <br>
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "javaScript" %}
+                        <li><a href="/categories/javaScript" class="">javaScript({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+             <br>
         <span class="nav__sub-title">etc</span>
             <ul>
                 {% for category in site.categories %}

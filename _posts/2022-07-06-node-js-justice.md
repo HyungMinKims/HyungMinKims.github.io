@@ -1,12 +1,12 @@
 ---
-title: "Node.js에 대해 알아보자 part.1"
+title: "[Node.js] Node.js에 대해 알아보자"
 categories:
 - nodejs
 tag:
 - nodejs
 toc: true 
 toc_sticky: true
-toc_label: "node.js 알아보자 part.1"
+toc_label: "node.js 알아보자"
 author_profile: true
 sidebar:
   nav: "docs"

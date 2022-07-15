@@ -11,8 +11,8 @@ toc_label: "코틀린 기본 문법 (2)"
 author_profile: true
 sidebar:
   nav: "docs"
-date: 2022-07-13 12:00:00
-lastmod : 2022-07-13 12:01:00
+date: 2022-07-14 12:00:00
+lastmod : 2022-07-14 12:01:00
 sitemap :
 changefreq : daily
 priority : 1.0

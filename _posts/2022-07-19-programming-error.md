@@ -9,7 +9,7 @@ toc_sticky: true
 toc_label: "Error 종류"
 author_profile: true
 sidebar:
-nav: "docs"
+  nav: "docs"
 last_modified_at: 2022-07-19T16:38:43-05:00
 sitemap :
   changefreq : daily

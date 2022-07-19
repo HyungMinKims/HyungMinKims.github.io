@@ -52,8 +52,8 @@
         <span class="nav__sub-title">Programming</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Concepts" %}
-                        <li><a href="/categories/Concepts" class=""><span class='nav__sub-title-before'>▶</span>Concepts<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
+                    {% if category[0] == "concepts" %}
+                        <li><a href="/categories/concepts" class=""><span class='nav__sub-title-before'>▶</span>Concepts<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

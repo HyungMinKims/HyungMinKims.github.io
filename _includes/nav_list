@@ -14,7 +14,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "android" %}
-                        <li><a href="/categories/android" class="">android({{category[1].size}})</a></li>
+                        <li><a href="/categories/android" class="nav__sub-title-before"> <span class='nav__sub-title-before'>▶</span>android<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -24,7 +24,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "swift" %}
-                        <li><a href="/categories/swift" class="">swift({{category[1].size}})</a></li>
+                        <li><a href="/categories/swift" class=""><span class='nav__sub-title-before'>▶</span>swift<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -32,7 +32,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "nodejs" %}
-                        <li><a href="/categories/nodejs" class="">nodejs({{category[1].size}})</a></li>
+                        <li><a href="/categories/nodejs" class=""><span class='nav__sub-title-before'>▶</span>nodejs<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -42,7 +42,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "javaScript" %}
-                        <li><a href="/categories/javaScript" class="">javaScript({{category[1].size}})</a></li>
+                        <li><a href="/categories/javaScript" class=""><span class='nav__sub-title-before'>▶</span>javaScript<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -52,7 +52,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "github" %}
-                        <li><a href="/categories/github" class="">github({{category[1].size}})</a></li>
+                        <li><a href="/categories/github" class=""><span class='nav__sub-title-before'>▶</span>github<span class='nav__sub-title-count-rcorners'>{{category[1].size}}</span></a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

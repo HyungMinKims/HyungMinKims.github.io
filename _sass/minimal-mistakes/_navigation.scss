@@ -499,9 +499,24 @@
   border-bottom: 1px solid $border-color;
 }
 
-/*
-     Table of contents navigation
-     ========================================================================== */
+.nav__sub-title-before {
+  color: lightslategrey;
+  margin-right: 0.5rem;
+}
+
+.nav__sub-title-count-rcorners {
+  border-radius: 5px;
+  border: 2px solid lightslategrey;
+  padding: 2.5px 6px;
+  margin-left: 0.5rem;
+  width: auto; /* Making auto-sizable width */
+  height: auto;
+}
+
+
+  /*
+       Table of contents navigation
+       ========================================================================== */
 
 .toc {
   font-family: $sans-serif-narrow;

@@ -15,6 +15,9 @@ sitemap :
   changefreq : daily
   priority : 1.0
 ---
+<br>
+# 💼 비동기이란 무엇인가요? 동기이란 무엇인가요?
+
 <script type="text/javascript">
   let open = false;
 
@@ -39,9 +42,7 @@ sitemap :
   height: auto;
 }
 </style>
-<br>
 
-# 💼 비동기이란 무엇인가요? 동기이란 무엇인가요?
 ## 🔎 비동기
 <div class="rcorners">
 ● 비동기는 동시에 일어나지 않습니다. <span style="color: red">요청과 결과가 동시에 일어나지 않음</span>

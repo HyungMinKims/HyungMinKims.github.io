@@ -274,6 +274,7 @@ promise
 |rejected |비동기 처리가 수행된 상태 (실패) |reject 함수가 호출된 상태 |
 |settled | 비동기 처리가 수행된 상태 (성공 또는 실패)| 	resolve 또는 reject 함수가 호출된 상태|
 
+<br>
 <font style="font-size: 20px">💻 then</font>
 <div class="rcorners">
   then 메소드는 두 개의 콜백 함수를 인자로 전달 받습니다. 

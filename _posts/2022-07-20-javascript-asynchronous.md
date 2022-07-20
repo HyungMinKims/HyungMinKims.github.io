@@ -79,8 +79,6 @@ sitemap :
 
 ![image](/assets/post/2022-07-20-javascript-asynchronous/asynchronous_example.jpg){: .align-center}
 
-<br>
-
 윗 사진 예시를 보고 동기와 비동기를 알아보도록 하겠습니다.
 
 <font style="font-size: 20px">💻 동기 </font>
